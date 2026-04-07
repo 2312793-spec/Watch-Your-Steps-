@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\CTK47C\\Game\\My project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CTK47C\\Game\\My project\\Assets\\Scripts\\Gameplay\\TrapController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Gameplay\\TrapController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CTK47C\\Game\\My project\\Assets\\Scripts\\Gameplay\\TrapTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Gameplay\\TrapTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CTK47C\\Game\\My project\\Assets\\Scripts\\Gameplay\\TokenUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Gameplay\\TokenUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,8 +57,37 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TrapController.cs",
+              "DocumentMoniker": "C:\\CTK47C\\Game\\My project\\Assets\\Scripts\\Gameplay\\TrapController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gameplay\\TrapController.cs",
+              "ToolTip": "C:\\CTK47C\\Game\\My project\\Assets\\Scripts\\Gameplay\\TrapController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gameplay\\TrapController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T16:08:09.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrapTrigger.cs",
+              "DocumentMoniker": "C:\\CTK47C\\Game\\My project\\Assets\\Scripts\\Gameplay\\TrapTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gameplay\\TrapTrigger.cs",
+              "ToolTip": "C:\\CTK47C\\Game\\My project\\Assets\\Scripts\\Gameplay\\TrapTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gameplay\\TrapTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T09:01:16.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TokenUI.cs",
               "DocumentMoniker": "C:\\CTK47C\\Game\\My project\\Assets\\Scripts\\Gameplay\\TokenUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Gameplay\\TokenUI.cs",
@@ -58,12 +95,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Gameplay\\TokenUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T09:06:36.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-31T09:06:36.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\CTK47C\\Game\\My project\\Assets\\Scripts\\Gameplay\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Gameplay\\GameManager.cs",
@@ -71,12 +107,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Gameplay\\GameManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T07:35:39.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-31T07:35:39.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Tonken.cs",
               "DocumentMoniker": "C:\\CTK47C\\Game\\My project\\Assets\\Scripts\\Gameplay\\Tonken.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Gameplay\\Tonken.cs",
@@ -84,12 +119,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Gameplay\\Tonken.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T07:20:41.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-31T07:20:41.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "TokenInstance.cs",
               "DocumentMoniker": "C:\\CTK47C\\Game\\My project\\Assets\\Scripts\\Mechanics\\TokenInstance.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Mechanics\\TokenInstance.cs",
@@ -97,16 +131,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Mechanics\\TokenInstance.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T07:18:56.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2026-03-31T07:18:56.847Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "DeathZone.cs",
               "DocumentMoniker": "C:\\CTK47C\\Game\\My project\\Assets\\Scripts\\Mechanics\\DeathZone.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Mechanics\\DeathZone.cs",
@@ -114,12 +143,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Mechanics\\DeathZone.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T06:54:53.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-31T06:54:53.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Spike.cs",
               "DocumentMoniker": "C:\\CTK47C\\Game\\My project\\Assets\\Scripts\\Gameplay\\Spike.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Gameplay\\Spike.cs",
@@ -127,12 +155,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Gameplay\\Spike.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAADYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T06:53:13.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-31T06:53:13.907Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Goal.cs",
               "DocumentMoniker": "C:\\CTK47C\\Game\\My project\\Assets\\Scripts\\Gameplay\\Goal.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Gameplay\\Goal.cs",

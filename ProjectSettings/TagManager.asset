@@ -42,6 +42,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground
+    uniqueID: 1398461635
+    locked: 0
+  - name: Spike
+    uniqueID: 1733969117
+    locked: 0
   m_RenderingLayers:
   - Default
   - Light Layer 1
