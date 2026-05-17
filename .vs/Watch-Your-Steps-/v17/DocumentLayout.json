@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell Latitude 7410\\Downloads\\Watch-Your-Steps--main\\Watch-Your-Steps-\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9346D7B4-D5CE-8E28-6A82-130BE77D335F}|Assembly-CSharp.csproj|C:\\Users\\Dell Latitude 7410\\Downloads\\Watch-Your-Steps--main\\Watch-Your-Steps-\\assets\\levelmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9346D7B4-D5CE-8E28-6A82-130BE77D335F}|Assembly-CSharp.csproj|solutionrelative:assets\\levelmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9346D7B4-D5CE-8E28-6A82-130BE77D335F}|Assembly-CSharp.csproj|c:\\users\\dell latitude 7410\\downloads\\watch-your-steps--main\\watch-your-steps-\\assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9346D7B4-D5CE-8E28-6A82-130BE77D335F}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "levelmenu.cs",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 7410\\Downloads\\Watch-Your-Steps--main\\Watch-Your-Steps-\\Assets\\levelmenu.cs",
+              "RelativeDocumentMoniker": "Assets\\levelmenu.cs",
+              "ToolTip": "C:\\Users\\Dell Latitude 7410\\Downloads\\Watch-Your-Steps--main\\Watch-Your-Steps-\\Assets\\levelmenu.cs",
+              "RelativeToolTip": "Assets\\levelmenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T20:20:07.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mainmenu.cs",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 7410\\Downloads\\Watch-Your-Steps--main\\Watch-Your-Steps-\\Assets\\mainmenu.cs",
+              "RelativeDocumentMoniker": "Assets\\mainmenu.cs",
+              "ToolTip": "C:\\Users\\Dell Latitude 7410\\Downloads\\Watch-Your-Steps--main\\Watch-Your-Steps-\\Assets\\mainmenu.cs",
+              "RelativeToolTip": "Assets\\mainmenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T18:49:49.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
